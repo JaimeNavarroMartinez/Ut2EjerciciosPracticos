@@ -14,7 +14,7 @@ import java.io.IOException;
  * @author DAM2P
  */
 public class Ejercicio04 {
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static void main(String[] args) throws IOException {
        //Cogemos la imagen original
         FileInputStream imagenOriginal = new FileInputStream("logo.png");
         
